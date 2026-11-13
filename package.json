@@ -1,9 +1,0 @@
-{
-  "name": "venturetrack",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "description": "Internship application tracker with a live job-search proxy (SerpApi) for Vercel",
-  "engines": { "node": ">=18" },
-  "scripts": { "dev": "vercel dev" }
-}
